@@ -4,7 +4,7 @@
 // Date of completion: Nov 9, 2023
 //
 // I confirm that I am the only author of this file
-//   and the content was created entirely by me. I got the trim function from "https://syntaxfix.com/question/7756/trim-whitespace-from-a-string".
+//   and the content was created entirely by me.
 #include "Utilities.h"
 
 #include <iostream>

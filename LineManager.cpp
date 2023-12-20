@@ -5,7 +5,6 @@
 //
 // I confirm that I am the only author of this file
 //   and the content was created entirely by me.
-// My constructor and reorderStations function didn't work properly, so I asked my friend and she got them from "https://github.com/furkanbass/OOP345-Project/blob/main/LineManager.cpp".
 #include <fstream>
 #include <algorithm>
 #include <string>
